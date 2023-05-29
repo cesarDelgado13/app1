@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/app1/static/css/main.f2e53a89.css",
+    "main.js": "/app1/static/js/main.9098d64b.js",
+    "static/js/787.7f320c1d.chunk.js": "/app1/static/js/787.7f320c1d.chunk.js",
+    "static/media/grettel_6.jpeg": "/app1/static/media/grettel_6.fc657c783a9bfea850d7.jpeg",
+    "static/media/grettel_7.jpeg": "/app1/static/media/grettel_7.f32bdd3cb3d24f76673b.jpeg",
+    "static/media/grettel_5.png": "/app1/static/media/grettel_5.b67ca93f6ef3a817fd9c.png",
+    "static/media/login.jpeg": "/app1/static/media/login.46cf963961db07b0d4b5.jpeg",
+    "static/media/grettel_3.jpeg": "/app1/static/media/grettel_3.e62afd80b2de6c846f53.jpeg",
+    "static/media/grettel_1.jpeg": "/app1/static/media/grettel_1.3b50ca66bc3c2d509808.jpeg",
+    "static/media/grettel_4.jpeg": "/app1/static/media/grettel_4.6c46a2ad0dfa613f9d96.jpeg",
+    "index.html": "/app1/index.html",
+    "main.f2e53a89.css.map": "/app1/static/css/main.f2e53a89.css.map",
+    "main.9098d64b.js.map": "/app1/static/js/main.9098d64b.js.map",
+    "787.7f320c1d.chunk.js.map": "/app1/static/js/787.7f320c1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2e53a89.css",
+    "static/js/main.9098d64b.js"
+  ]
+}
